@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.env
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+
+# Playwright
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Allure
+allure-results/
+allure-report/
+
+# Docker
+*.dockerignore
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo

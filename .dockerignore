@@ -1,0 +1,9 @@
+# .dockerignore
+venv/
+__pycache__/
+.pytest_cache/
+allure-results/
+*.pyc
+*.log
+.git
+.gitignorec
